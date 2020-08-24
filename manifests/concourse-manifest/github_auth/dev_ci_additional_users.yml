@@ -11,6 +11,11 @@ instance_groups:
               github:
                 users:
                   - (( append ))
-                  - kr8n3r
                   - poveyd
                   - barsutka
+                  - szd55gds
+                  - philandstuff
+                  - adityapahuja
+                  - Krenair
+                  - chrisfarms
+                  - blairboy362
